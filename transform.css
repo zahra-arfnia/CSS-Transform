@@ -39,6 +39,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 3px 3px 3px 3px rgb(218, 217, 217);
    
     
 }
