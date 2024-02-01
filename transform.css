@@ -122,64 +122,126 @@ transform: translateX(40px);
     transform: perspective(400px)  rotateY(50deg);
 }
 
-.div15:hover{
+
+
+.div15{
     transform-origin: top right;
+}
+.div15:hover{
+    
     transform: rotate(45deg);
 }
 
-.div16:hover{
+
+
+.div16{
     transform-origin: bottom left;
+}
+.div16:hover{
+    
     transform: rotate(45deg);
 }
 
-.div17:hover{
+
+
+
+.div17{
     transform-origin: bottom;
+}
+.div17:hover{
+    
     transform: perspective(400px) rotatex(60deg);
 }
 
-.div18:hover{
+
+
+.div18{
     transform-origin: top;
+}
+.div18:hover{
+    
     transform: perspective(400px) rotatex(80deg);
 }
 
+
+
+.div19{
+    transform-origin: left;
+}
 .div19:hover{
-   transform-origin: left;
+   
     transform: perspective(400px) rotateY(60deg);
 }
 
-.div20:hover{
+
+
+.div20{
     transform-origin: right;
+}
+.div20:hover{
+    
      transform: perspective(400px) rotateY(60deg);
 }
 
 
+
+.div21{
+     transform-origin: top right;
+}
 .div21:hover{
-    transform-origin: top right;
+   
     transform: scale(1.3,1.3);
 }
 
-.div22:hover{
+
+
+.div22{
+    
     transform-origin: bottom left;
+}
+.div22:hover{
     transform: scale(1.3,1.3);
 }
 
+
+
+.div23{
+    transform-origin: top right;
+}
 .div23:hover{
-    transform-origin: right;
+    
     transform: scaleX(1.5);
 }
 
-.div24:hover{
+
+
+
+.div24{
     transform-origin: left;
+}
+.div24:hover{
+    
     transform: scaleX(1.5);
+}
+
+
+.div25{
+     transform-origin: top;
 }
 
 .div25:hover{
-    transform-origin: top;
+   
     transform: scaleY(1.6);
 }
 
+
+
+
+.div26{
+     transform-origin: bottom;
+}
 .div26:hover{
-    transform-origin: bottom;
+   
     transform: scaleY(1.6);
 }
 
